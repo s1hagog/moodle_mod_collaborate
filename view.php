@@ -59,6 +59,8 @@ $PAGE->set_heading(format_string($course->fullname));
 if (!$collaborate->intro) {
     $collaborate->intro = '';
 }
+\mod_collaborate\local\debugging::logit("What is in a collaborate ", $collaborate);
+
 // Start output to browser.
 echo $OUTPUT->header();
 

@@ -1,0 +1,13 @@
+What is in a collaborate stdClass Object
+(
+    [id] => 1
+    [course] => 3
+    [name] => New Collaboreate Activitiy
+    [intro] => Lorem ipsum but i was lazy to copy it from the generator<br><img src="@@PLUGINFILE@@/lawn.jpg" alt="" width="500" height="281" role="presentation" class="img-fluid atto_image_button_text-bottom"><br>
+    [introformat] => 1
+    [title] => This is some titile
+    [timecreated] => 1620194529
+    [timemodified] => 1620194635
+    [grade] => 100
+)
+
