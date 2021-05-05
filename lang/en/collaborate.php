@@ -46,3 +46,6 @@ $string['nocollaborates'] = 'No instances';
 
 // Mod form specific collaborate settings.
 $string['title'] = 'Activity Title: ';
+
+// Development specific strings
+$string['developer'] = 'I am a great developer';
