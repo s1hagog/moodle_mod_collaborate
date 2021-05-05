@@ -30,18 +30,18 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['modulename'] = 'collaborate';
-$string['modulenameplural'] = 'collaborates';
-$string['modulename_help'] = 'Use the collaborate module for... | The collaborate module allows...';
-$string['collaborate:addinstance'] = 'Add a new collaborate';
-$string['collaborate:submit'] = 'Submit collaborate';
-$string['collaborate:view'] = 'View collaborate';
+$string['modulename'] = 'Collaborate';
+$string['modulenameplural'] = 'Collaborates';
+$string['modulename_help'] = 'Use the Collaborate module for... | The Collaborate module allows...';
+$string['collaborate:addinstance'] = 'Add a newCcollaborate';
+$string['collaborate:submit'] = 'Submit Collaborate';
+$string['collaborate:view'] = 'View Collaborate';
 $string['collaboratefieldset'] = 'Custom example fieldset';
-$string['collaboratename'] = 'collaborate name';
+$string['collaboratename'] = 'Collaborate name';
 $string['collaboratename_help'] = 'This is the content of the help tooltip associated with the collaboratename field. Markdown syntax is supported.';
-$string['collaborate'] = 'collaborate';
-$string['pluginadministration'] = 'collaborate administration';
-$string['pluginname'] = 'collaborate';
+$string['collaborate'] = 'Collaborate';
+$string['pluginadministration'] = 'Collaborate administration';
+$string['pluginname'] = 'Collaborate';
 $string['nocollaborates'] = 'No instances';
 
 // Mod form specific collaborate settings.
