@@ -46,6 +46,7 @@ $string['nocollaborates'] = 'No instances';
 
 // Mod form specific collaborate settings.
 $string['title'] = 'Activity Title: ';
+$string['title_help'] = 'Please select a suitable title for your collaborate main page.';
 
 // Development specific strings
 $string['developer'] = 'I am a great developer';
