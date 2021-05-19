@@ -51,3 +51,7 @@ $string['pageviewed'] = 'Module page viewed';
 
 // Development specific strings
 $string['developer'] = 'I am a great developer';
+
+// Mod form specific collaborate settings.
+$string['title'] = 'Activity Title: ';
+$string['texteditor'] = 'Instructions {$a}';
