@@ -57,3 +57,7 @@ $string['developer'] = 'I am a great developer';
 // Mod form specific collaborate settings.
 $string['title'] = 'Activity Title: ';
 $string['texteditor'] = 'Instructions {$a}';
+
+// Showpage page
+$string['user'] = 'User: {$a}';
+$string['returnview'] = 'Main page';
