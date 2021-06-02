@@ -39,7 +39,7 @@ use stdClass;
  * @copyright  2020 Richard Jones <richardnz@outlook.com>
  */
 
-class view implements renderable, templatable{
+class showpage implements renderable, templatable{
 
     protected $collaborate;
     protected $cm;
@@ -65,7 +65,7 @@ class view implements renderable, templatable{
         $data->body = $content;
     
         // Get a return url back to view page.
-        $urlv = new moodle_url('/mod/collaborate/view.php', ['id' => $this->cm->id]);
+        $urlv = new \moodle_url('/mod/collaborate/view.php', ['id' => $this->cm->id]);
         $data->url_view = $urlv->out(false);
     
         return $data;
